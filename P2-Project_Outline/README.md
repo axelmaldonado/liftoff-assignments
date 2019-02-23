@@ -31,3 +31,6 @@ Firebase for database
 ### What I'll Have to Learn
 React
 Firebase
+
+### Trello Board:
+https://trello.com/b/39gbkUBY/kc-tech-jobs
