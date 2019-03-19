@@ -13,7 +13,6 @@ https://github.com/axelmaldonado
 https://www.linkedin.com/in/axel-maldonado/
 
 ### Resume
-https://axelmaldonado.com/Axel%20Maldonado%20Web%20Developer%20Resume.pdf
-
+https://axelmaldonado.com/Axel-Maldonado-Web-Developer-Resume.pdf
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
